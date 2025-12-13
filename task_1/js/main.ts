@@ -16,3 +16,4 @@ const teacher3: Teacher = {
 };
 
 console.log(teacher3);
+
